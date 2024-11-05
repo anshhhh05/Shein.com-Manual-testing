@@ -35,4 +35,4 @@ The reports are dedicated to storing various reports generated during manual tes
 The test-metrics contain metrics and measurements related to manual testing. Testers can track metrics such as test coverage, defect density, test execution time, and other relevant metrics to assess the quality and progress of testing activities. The metrics help identify areas of improvement and provide quantitative data for making informed decisions.
 
 ## :telephone: Contact
-For any questions or inquiries, please contact amitsaha1995@gmail.com.
+For any questions or inquiries, please contact ansh.srivastava7@gmail.com.
